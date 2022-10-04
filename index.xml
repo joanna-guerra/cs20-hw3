@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "styles.css"?>
+
+<songlist>
+    <title> Welcome to my songlist! </title>
+    <song>
+        <name> 1. Title: Brasiliana</name>
+        <artist> Artist: Baianasystem</artist>
+        <genre> Gender: Reggae</genre>
+        <year> Year: 2021</year>
+    </song>
+
+    <song>
+        <name> 2. Title: Sleep on the floor</name>
+        <artist> Artist: The Lumineers</artist>
+        <genre> Gender: Folk Rock</genre>
+        <year> Year: 2016</year>
+    </song>
+
+    <song>
+        <name> 3. Title: Bem que se quis</name>
+        <artist> Artist: Marisa Monte</artist>
+        <genre> Gender: MPB</genre>
+        <year> Year: 1989</year>
+    </song>
+
+    <song>
+        <name> 4. Title: Dandelion</name>
+        <artist> Artist: Jealous of the Birds</artist>
+        <genre> Gender: Indie Rock</genre>
+        <year> Year: 2016</year>
+    </song>
+  
+    <song>
+        <name> 5. Title: Blossom</name>
+        <artist> Artist: Milky Chance</artist>
+        <genre> Gender: Pop</genre>
+        <year> Year: 2017</year>
+    </song>
+ 
+    <song>
+        <name> 6. Title: Elephant Gun</name>
+        <artist> Artist: Beirut</artist>
+        <genre> Gender: Indie Rock</genre>
+        <year> Year: 2006</year>
+    </song>
+
+    <song>
+        <name> 7. Title: Novas Auroras</name>
+        <artist> Artist: Nação Zumbi</artist>
+        <genre> Gender: Mangue Beat</genre>
+        <year> Year: 2014</year>
+    </song>
+
+    <song>
+        <name> 8. Title: Moça</name>
+        <artist> Artist: Mariana Froes</artist>
+        <genre> Gender: MPB</genre>
+        <year> Year: 2019</year>
+    </song>
+
+    <song>
+        <name> 9. Title: La rua madureira</name>
+        <artist> Artist: Pauline Croze</artist>
+        <genre> Gender: Bossa Nova</genre>
+        <year> Year: 2016</year>
+    </song>
+
+    <song>
+        <name> 10. Title: Pequenas alegrias da vida adulta</name>
+        <artist> Artist: Emicida</artist>
+        <genre> Gender: Rap</genre>
+        <year> Year: 2019</year>
+    </song>
+
+    <song>
+        <name> 11. Title: Something Just Like This</name>
+        <artist> Artist: The Chainsmokers/Coldplay</artist>
+        <genre> Gender: Electronic</genre>
+        <year> Year: 2018</year>
+    </song>
+
+    <song>
+        <name> 12. Title: O mundo é um moinho </name>
+        <artist> Artist: Beth Carvalho</artist>
+        <genre> Gender: Samba</genre>
+        <year> Year: 1977</year>
+    </song>
+</songlist>
